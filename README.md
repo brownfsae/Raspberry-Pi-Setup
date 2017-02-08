@@ -1,4 +1,4 @@
-# rpiSetupHistory
+# Raspberry Pi Setup
 Record of Raspberry PI Setup Procedure for ENGN1931Z
 
 ** This setup log will begin with quite explicit instructions, but as we proceed, I assume that you will be able to help fill in the blanks.
